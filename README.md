@@ -63,4 +63,3 @@ Close the 2D plot to start the turtlebot movement. Once the goal is reached, res
 4. [Paper on Path Planning Algorithms](http://msl.cs.illinois.edu/~lavalle/papers/Lav98c.pdf)
 ```
 
-This format includes more structured and accessible links, ensuring that those interested can easily navigate through your repository, understand the setup instructions, and access related resources. Feel free to tweak any part of this template to better suit your project's needs or personal style.
